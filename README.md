@@ -1,16 +1,19 @@
-## Hi there 👋
+# 🎨 Varshanr111's Portfolio Website
 
-<!--
-**varshanr111/varshanr111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A modern, responsive personal portfolio showcasing my projects, 
+skills in web development and AI/ML.
 
-Here are some ideas to get you started:
+**Visit my portfolio:** [varsh.github.io/my-portfolio](https://varshanr111.github.io/my-portfolio/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ✨ Features
+
+- ✅ Fully Responsive — Works on mobile, tablet, desktop
+- ✅ Interactive Animations — Smooth scrolling and hover effects
+- ✅ Project Showcase — Display 15+ projects
+- ✅ Skills Section — HTML, CSS, JS, Python, React
+- ✅ Contact Form — Get in touch with visitors
+- ✅ Social Links — LinkedIn, GitHub, Twitter
+
+...
